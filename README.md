@@ -1,8 +1,8 @@
 # SecuringWebApplications
-## 1. reflectedXssAttack1
+## 1. storedXssAttack1
 a. Post a comment to the the url 
 
-      URL:'http://localhost:8080/reflectedXssAttack1/Comment'
+      URL:'http://localhost:8080/storedXssAttack1/Comment'
 
       Method : POST
 
@@ -12,4 +12,4 @@ a. Post a comment to the the url
 
 
 b. Get the comment from the url
-http://localhost:8080/reflectedXssAttack1/Comment
+http://localhost:8080/storedXssAttack1/Comment
